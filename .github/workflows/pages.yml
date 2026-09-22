@@ -36,9 +36,11 @@ jobs:
       - run: pip install jupyter
       - run: pip install -r requirements.txt
 
-      - name: Install R dependencies
+      - name: Restore R dependencies
+        working-directory: content
         run: |
-          Rscript -e 'install.packages(c("knitr", "rmarkdown"), repos = "https://cloud.r-project.org")'
+          Rscript -e 'install.packages("renv", repos = "https://cloud.r-project.org")'
+          Rscript -e 'renv::restore(prompt = FALSE)'
 
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
