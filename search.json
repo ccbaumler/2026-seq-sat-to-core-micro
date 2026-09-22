@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "index.html#gut-microbial-ecology-is-linked-with-disease",
+    "href": "index.html#gut-microbial-ecology-is-linked-with-disease",
+    "title": "In search of balance",
+    "section": "Gut microbial ecology is linked with disease",
+    "text": "Gut microbial ecology is linked with disease\nExposition\n\nwhat is the human gut environment\nShow examples of the different body sites connected to gut\n\n\n\n\n\nAdapted from Lee et al, Infect Immun (2026)"
+  },
+  {
+    "objectID": "index.html#conditions-are-dependent-on-many-factors",
+    "href": "index.html#conditions-are-dependent-on-many-factors",
+    "title": "In search of balance",
+    "section": "Conditions are dependent on many factors",
+    "text": "Conditions are dependent on many factors\nExposition\n\nover the last 20 years, we have speculated in the literature about a core set of microbes that live in the human gut maintaining a balanced ecosystem to exchange the indigestible nutrients like fiber for vitamins, SCFA, and other metabolites.\ndefine homeostasis and dysbiosis\ndrive the point that community profile is unknown"
+  },
+  {
+    "objectID": "index.html#keystone-microbiota-define-homeostasis",
+    "href": "index.html#keystone-microbiota-define-homeostasis",
+    "title": "In search of balance",
+    "section": "Keystone microbiota define homeostasis",
+    "text": "Keystone microbiota define homeostasis\nInciting incident\n\n\n\n\nAdapted from Shen et al, MedComm (2020)"
+  },
+  {
+    "objectID": "index.html#section",
+    "href": "index.html#section",
+    "title": "In search of balance",
+    "section": "",
+    "text": "Hypothesis-driven\n\n\nHypothesis-driven\n\n\nExploratory + Instinct!"
+  },
+  {
+    "objectID": "index.html#pangenomes-are-the-combined-information-of-genomes-by-taxonomic-bins",
+    "href": "index.html#pangenomes-are-the-combined-information-of-genomes-by-taxonomic-bins",
+    "title": "In search of balance",
+    "section": "Pangenomes are the combined information of genomes by taxonomic bins",
+    "text": "Pangenomes are the combined information of genomes by taxonomic bins\nRising action"
+  },
+  {
+    "objectID": "index.html#biologically-informed-database-design-smooths-out-noise",
+    "href": "index.html#biologically-informed-database-design-smooths-out-noise",
+    "title": "In search of balance",
+    "section": "Biologically informed database design smooths out noise",
+    "text": "Biologically informed database design smooths out noise\nRising action"
+  },
+  {
+    "objectID": "index.html#benchmarking-shows-an-improvement-in-precision",
+    "href": "index.html#benchmarking-shows-an-improvement-in-precision",
+    "title": "In search of balance",
+    "section": "Benchmarking shows an improvement in precision",
+    "text": "Benchmarking shows an improvement in precision\nRising action"
+  },
+  {
+    "objectID": "index.html#shotgun-sequencing-is-big-messy-data-of-an-entire-environment",
+    "href": "index.html#shotgun-sequencing-is-big-messy-data-of-an-entire-environment",
+    "title": "In search of balance",
+    "section": "Shotgun sequencing is big, messy data of an entire environment",
+    "text": "Shotgun sequencing is big, messy data of an entire environment\nRising action"
+  },
+  {
+    "objectID": "index.html#microbiome-sampling-has-pros-and-cons",
+    "href": "index.html#microbiome-sampling-has-pros-and-cons",
+    "title": "In search of balance",
+    "section": "Microbiome sampling has pros and cons",
+    "text": "Microbiome sampling has pros and cons\nRising action"
+  },
+  {
+    "objectID": "index.html#correcting-metadata-by-filtering-for-depth-breadth",
+    "href": "index.html#correcting-metadata-by-filtering-for-depth-breadth",
+    "title": "In search of balance",
+    "section": "Correcting metadata by filtering for depth & breadth",
+    "text": "Correcting metadata by filtering for depth & breadth\nRising action\nDepth: Are we seeing the sequence information more than once?\n\\[\nSaturation = 1 - \\frac{breadth}{depth} \\geq 25\\%\n\\]\n\nBreadth: Are we seeing enough sequence information?\n\\[\nTotal\\ breadth = \\sum_{\\text{sequence info}\\ \\in\\ \\text{Sequence}} \\text{sequence info} \\geq 1\\ \\text{MBp}\n\\]"
+  },
+  {
+    "objectID": "index.html#bio-binning-and-correcting-metadata-found-core-microbiome-species",
+    "href": "index.html#bio-binning-and-correcting-metadata-found-core-microbiome-species",
+    "title": "In search of balance",
+    "section": "Bio-binning and correcting metadata found core microbiome species",
+    "text": "Bio-binning and correcting metadata found core microbiome species\nClimax\n\n\n\n\n\n\n\n\n8% of our 36,000 human stool samples\n\n\n\n\n\n\n\nAnaerobic to aerobic\nObligate to facultative"
+  },
+  {
+    "objectID": "index.html#functional-profiles-show-what-communties-can-do-differently",
+    "href": "index.html#functional-profiles-show-what-communties-can-do-differently",
+    "title": "In search of balance",
+    "section": "Functional profiles show what communties can do differently!",
+    "text": "Functional profiles show what communties can do differently!\nFalling action\n\n\nIntersect the found pangenome species with the all samples of specific metadata\n\n\n\n\n\n\n\n\n\n\n\nIsolate and extract only the intersecting signal\n\n\n\n\n\n\n\n\n\n\n\nThis is the pangenomic profile of the sample conditions"
+  },
+  {
+    "objectID": "index.html#acknowledgments",
+    "href": "index.html#acknowledgments",
+    "title": "In search of balance",
+    "section": "Acknowledgments",
+    "text": "Acknowledgments\nResolution\n\nC. Titus Brown\nAnnie\nBry\nGina\nTina\nTamer\nMo\nEnoch Baldwin\nCarole Hom"
+  }
+]
